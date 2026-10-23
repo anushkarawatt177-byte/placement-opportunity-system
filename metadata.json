@@ -1,0 +1,6 @@
+{
+  "name": "Placement Opportunity Recommendation System",
+  "description": "AI-based placement recommendation and career readiness platform matching college students with top campus drives, internships, and job opportunities based on skills, CGPA, and career goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
